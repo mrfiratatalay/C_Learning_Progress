@@ -24,6 +24,7 @@
     <ProjectGuid>{20e99a91-f374-49e1-8199-4c7d5efaf856}</ProjectGuid>
     <RootNamespace>My01exapmle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>01_exercise</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
