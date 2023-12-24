@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\FIRAT\Desktop\C_Learning_Progress\C_Examples\23_exercise\main.c(12,13): warning C4305: '=': truncation from 'double' to 'float'
+  23_exercise.vcxproj -> C:\Users\FIRAT\Desktop\C_Learning_Progress\C_Examples\x64\Debug\23_exercise.exe
