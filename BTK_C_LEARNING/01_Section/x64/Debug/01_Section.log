@@ -1,2 +1,3 @@
-﻿  03_exercise.c
+﻿  04_exercise.c
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_LEARNING\01_Section\04_exercise.c(12,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   01_Section.vcxproj -> C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_LEARNING\x64\Debug\01_Section.exe
