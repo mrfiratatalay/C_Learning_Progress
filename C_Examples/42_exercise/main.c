@@ -7,7 +7,7 @@ Please to meet you, Danny.
 	*/
 	char myName[6];
 	printf("Type your first name: ");
-	scanf("%s", myName);
+	scanf("%s", &myName);
 	printf("Please to meet you, %s.", myName);
 	return 0;
 
