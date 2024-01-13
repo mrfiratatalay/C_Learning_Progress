@@ -14,21 +14,4 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="02_exercise.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="01._exercise.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="03_exercise.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="04_exercise.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="05_exercise.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
