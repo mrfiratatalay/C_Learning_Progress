@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\001\main.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\001\main.c(11,9):
+  consider using '%zd' in the format string
+  
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\001\main.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\001\main.c(12,9):
+  consider using '%zd' in the format string
+  
+  001.vcxproj -> C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\x64\Debug\001.exe
