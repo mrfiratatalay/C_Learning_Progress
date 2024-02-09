@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\006\main.c(11,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\006\main.c(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\006\main.c(14,9):
+  consider using '%zd' in the format string
+  
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\006\main.c(17,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\006\main.c(17,9):
+  consider using '%zd' in the format string
+  
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\006\main.c(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\006\main.c(20,9):
+  consider using '%zd' in the format string
+  
+  006.vcxproj -> C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\x64\Debug\006.exe
