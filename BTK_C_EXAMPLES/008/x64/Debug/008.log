@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\008\main.c(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\008\main.c(8,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'char *'
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\008\main.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\008\main.c(9,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'int *'
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\008\main.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'float *'
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\008\main.c(10,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'float *'
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\008\main.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type '__int64 *'
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\008\main.c(11,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type '__int64 *'
+C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\008\main.c(6,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  008.vcxproj -> C:\Users\FIRAT\Desktop\C_Learning_Progress\BTK_C_EXAMPLES\x64\Debug\008.exe
